@@ -8,7 +8,11 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-router-dom": "^6.4.3",
+=======
+    "react-firebase-hooks": "^5.0.3",
+>>>>>>> 346f3a648f29efe86958a75692adaa894b5586f3
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
